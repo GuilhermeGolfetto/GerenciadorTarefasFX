@@ -1,0 +1,46 @@
+.label{
+	-fx-font-family:Arial;
+}
+
+#lblInicio{
+	-fx-font-size: 24px;
+	-fx-translate-x: 240;
+	-fx-translate-y: 2;
+	-fx-underline: true;
+}
+#lblProgresso{
+	-fx-translate-x: 485;
+	-fx-translate-y: 30;
+}
+#lblTotal{
+	-fx-font-size: 16px;
+	-fx-translate-x: 240;
+	-fx-translate-y: 475;
+}
+#lblFooter{
+	-fx-font-size: 10px;
+	-fx-translate-x: 5;
+	-fx-translate-y: 506;
+}
+
+#vbox{
+	-fx-padding: 70 0 0 50;
+}
+#btnCadastrar{
+	-fx-translate-x: 625.0;/*ponto x */
+	-fx-translate-y: 35.0; /*ponto y */
+	-fx-background-color: rgb(31.0,149.0,206.0); /*background */
+	-fx-text-fill: white; /*texto branco*/
+}
+#btnCadastrar:hover{
+	-fx-background-color: rgba(31.0,149.0,206.0,0.71);
+}
+#btnExportar{
+	-fx-translate-x: 530.0;/*ponto x */
+	-fx-translate-y: 35.0; /*ponto y */
+	-fx-background-color: rgb(31.0,149.0,206.0); /*background */
+	-fx-text-fill: white; /*texto branco*/
+}
+#btnExportar:hover{
+	-fx-background-color: rgba(31.0,149.0,206.0,0.71);
+}

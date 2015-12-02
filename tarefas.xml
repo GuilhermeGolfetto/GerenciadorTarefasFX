@@ -1,0 +1,66 @@
+<com.sun.javafx.collections.ObservableListWrapper>
+  <listenerHelper class="com.sun.javafx.collections.ListListenerHelper$Generic">
+    <changeListeners>
+      <javafx.collections.WeakListChangeListener>
+        <ref>
+          <referent class="null"/>
+          <queue class="java.lang.ref.ReferenceQueue$Null">
+            <lock/>
+            <queueLength>0</queueLength>
+          </queue>
+        </ref>
+      </javafx.collections.WeakListChangeListener>
+      <javafx.collections.WeakListChangeListener>
+        <ref>
+          <referent class="null"/>
+          <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../javafx.collections.WeakListChangeListener/ref/queue"/>
+        </ref>
+      </javafx.collections.WeakListChangeListener>
+      <javafx.collections.WeakListChangeListener>
+        <ref>
+          <referent class="null"/>
+          <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../javafx.collections.WeakListChangeListener/ref/queue"/>
+        </ref>
+      </javafx.collections.WeakListChangeListener>
+      <null/>
+    </changeListeners>
+    <invalidationSize>0</invalidationSize>
+    <changeSize>3</changeSize>
+    <locked>false</locked>
+  </listenerHelper>
+  <changeBuilder>
+    <list class="com.sun.javafx.collections.ObservableListWrapper" reference="../.."/>
+    <changeLock>0</changeLock>
+    <addRemoveChanges/>
+  </changeBuilder>
+  <backingList>
+    <model.Tarefa>
+      <nome>Dizer pra Kamille</nome>
+      <descricao>Que ela é Linda!</descricao>
+      <prazo>02/12/2015</prazo>
+      <prioridade>Alta</prioridade>
+      <concluida>Sim</concluida>
+    </model.Tarefa>
+    <model.Tarefa>
+      <nome>Lavar a louça</nome>
+      <descricao>Antes que descubram que está suja</descricao>
+      <prazo>02/12/2015</prazo>
+      <prioridade>Baixa</prioridade>
+      <concluida>Não</concluida>
+    </model.Tarefa>
+    <model.Tarefa>
+      <nome>linda</nome>
+      <descricao></descricao>
+      <prazo></prazo>
+      <prioridade>Alta</prioridade>
+      <concluida>Sim</concluida>
+    </model.Tarefa>
+    <model.Tarefa>
+      <nome>comprar Leite</nome>
+      <descricao></descricao>
+      <prazo></prazo>
+      <prioridade>Baixa</prioridade>
+      <concluida>Não</concluida>
+    </model.Tarefa>
+  </backingList>
+</com.sun.javafx.collections.ObservableListWrapper>
